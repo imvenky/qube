@@ -1,1 +1,473 @@
-article,aside,details,figcaption,figure,footer,header,hgroup,hr,menu,nav,section{display:block}abbr,address,article,aside,audio,b,blockquote,body,canvas,caption,cite,code,dd,del,details,dfn,div,dl,dt,em,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,p,pre,q,samp,section,small,span,strong,sub,summary,sup,table,tbody,td,textarea,tfoot,th,thead,time,tr,ul,var,video{margin:0;border:0;padding:0;outline:0;font-size:100%;font-weight:300;word-wrap:break-word;background:0 0;vertical-align:baseline;font-family:"Source Sans Pro",sans-serif}body{line-height:1;overflow-x:hidden}body,html{width:100%;height:100%}ul{list-style:none}a{margin:0;padding:0;cursor:pointer;color:#c9b9b9;vertical-align:baseline;background:0 0;text-decoration:none}table{border-collapse:collapse;border-spacing:0}hr{height:1px;border:0;border-top:1px solid #000;margin:1em 0;padding:0}input,select{vertical-align:middle}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.page_container{padding-top:80px;padding-bottom:20px}.page_container .page_face{padding:11px 11px 38px;position:relative;background:#c6cf5c}.page_container .page_face .pf_header{display:flex;align-items:center;justify-content:space-between}.page_container .page_face .pf_header span{font-style:normal;font-weight:600;font-size:20px;line-height:24px;color:#000}.page_container .page_face .pf_body{display:flex;padding:25px;align-items:center;justify-content:center}.page_container .page_face .pf_body div{text-align:center}.page_container .page_face .pf_body h1{padding-top:14px;font-weight:400;font-size:12px;line-height:14px;text-align:center;color:#000}.page_container .page_face .pf_body h1 strong{display:block;font-size:18px;font-weight:600;color:#417505;margin-top:10px}.page_container .page_section{padding:0 24px}.page_container .page_section._payment_for{bottom:-30px;left:0;width:100%;position:absolute}.page_container .page_section._payment_for .page_inner{padding:10px;background:#fff;box-shadow:-2px 0 8px rgba(0,0,0,.1);border-radius:10px;display:flex;justify-content:space-between}.page_container .page_section._payment_for .page_inner div span{font-weight:600;font-size:15px;line-height:18px;color:#3d6296}.page_container .page_section._payment_for .page_inner div strong{display:block;margin-top:5px;font-weight:600;font-size:15px;line-height:18px;color:#231f20}.page_container .page_section._appointment_details{padding-top:45px}.page_container .page_section._appointment_details .page_inner{background:#fff;box-shadow:-2px 0 8px rgba(0,0,0,.1),2px 2px 8px rgba(0,0,0,.1);border-radius:10px;display:flex;overflow:hidden;justify-content:space-between}.page_container .page_section._appointment_details .page_inner .appointment_details{flex:1;display:flex;padding:10px;gap:25px;flex-direction:column}.page_container .page_section._appointment_details .page_inner .appointment_details .ad_row{display:flex;justify-content:space-between}.page_container .page_section._appointment_details .page_inner .appointment_details .ad_row._appointment_on div{font-weight:400;font-size:12px;line-height:14px;color:rgba(0,0,0,.5)}.page_container .page_section._appointment_details .page_inner .appointment_details .ad_row._appointment_on div span{font-weight:600;font-size:15px;display:block;line-height:18px;margin-top:5px;color:#3d6296}.page_container .page_section._appointment_details .page_inner .appointment_details .ad_row .hospital_details{padding-left:50px}.page_container .page_section._appointment_details .page_inner .appointment_details .ad_row .hospital_details h2{font-weight:500;font-size:15px;line-height:18px;letter-spacing:.02em;color:#231f20;margin-bottom:4px}.page_container .page_section._appointment_details .page_inner .appointment_details .ad_row .hospital_details address{font-weight:400;font-size:12px;font-style:inherit;line-height:14px;letter-spacing:.02em;color:rgba(0,0,0,.5)}.page_container .page_section._appointment_details .page_inner .bar_code{width:45px;display:flex;align-items:center;justify-content:center;background:#87c25a}.page_container .page_section._voucher_owner_details{padding-top:15px}.page_container .page_section._voucher_owner_details .page_inner{display:flex;flex-wrap:wrap}.page_container .page_section._voucher_owner_details .page_inner div{flex:1;padding-bottom:15px}.page_container .page_section._voucher_owner_details .page_inner div._voucher_holder{min-width:100%}.page_container .page_section._voucher_owner_details .page_inner div label{font-weight:600;font-size:15px;line-height:18px;color:#3d6296}.page_container .page_section._voucher_owner_details .page_inner div strong{font-weight:500;font-size:15px;line-height:18px;color:#231f20}.page_container .page_section .__section_heading{font-style:normal;font-weight:600;font-size:15px;line-height:18px;color:#3d6296}.page_container .page_section._package_details .page_inner{padding:15px;background:#fff;box-shadow:-2px 0 8px rgba(0,0,0,.1),2px 2px 8px rgba(0,0,0,.1);border-radius:10px}.page_container .page_section._package_details .page_inner h2{font-weight:600;font-size:18px;line-height:21px;margin-bottom:15px;color:rgba(18,18,18,.6)}.page_container .page_section._instructions .__section_heading,.page_container .page_section._please_follow_instruction .__section_heading{margin-bottom:8px}.page_container .page_section._package_details .page_inner ul{list-style-type:disc;margin-left:15px}.page_container .page_section._package_details .page_inner li{font-weight:500;font-size:12px;line-height:14px;padding-top:10px;color:#231f20}.page_container .page_section._please_follow_instruction{padding-top:15px;padding-bottom:17px}.page_container .page_section._please_follow_instruction ul{list-style-type:disc;margin-left:15px}.page_container .page_section._please_follow_instruction li{font-weight:400;font-size:12px;line-height:14px;margin-top:8px;color:rgba(0,0,0,.5)}.page_container .page_section._note{background:#3d6296}.page_container .page_section._note .page_inner{padding-top:14px;padding-bottom:14px}.page_container .page_section._note p{font-weight:600;font-size:12px;line-height:14px;text-align:center;color:#fff}.page_container .page_section._instructions{padding-top:15px;padding-bottom:15px;background:#c6cf5c}.page_container .page_section._instructions ul{list-style-type:disc;margin-left:15px}.page_container .page_section._instructions li{font-weight:400;font-size:12px;line-height:17px;color:rgba(0,0,0,.5)}.page_container .page_section._instructions .contact_info{display:flex;padding-top:20px;align-items:center;text-align:center;justify-content:space-between}.page_container .page_section._instructions .contact_info span{display:block}.page_container .page_section._instructions .contact_info div{font-weight:500;font-size:12px;line-height:14px;text-align:center}.page_container .page_section._instructions .contact_info div code{display:block;font-size:10px}.page_container .page_section._instructions .contact_info a{font-weight:600;font-size:12px;line-height:14px;text-decoration-line:underline;color:#2baaec}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+hr,
+menu,
+nav,
+section {
+  display: block;
+}
+abbr,
+address,
+article,
+aside,
+audio,
+b,
+blockquote,
+body,
+canvas,
+caption,
+cite,
+code,
+dd,
+del,
+details,
+dfn,
+div,
+dl,
+dt,
+em,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+html,
+i,
+iframe,
+img,
+ins,
+kbd,
+label,
+legend,
+li,
+mark,
+menu,
+nav,
+object,
+ol,
+p,
+pre,
+q,
+samp,
+section,
+small,
+span,
+strong,
+sub,
+summary,
+sup,
+table,
+tbody,
+td,
+textarea,
+tfoot,
+th,
+thead,
+time,
+tr,
+ul,
+var,
+video {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  outline: 0;
+  font-size: 100%;
+  font-weight: 300;
+  word-wrap: break-word;
+  background: 0 0;
+  vertical-align: baseline;
+  font-family: "Source Sans Pro", sans-serif;
+}
+body {
+  line-height: 1;
+  overflow-x: hidden;
+}
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+ul {
+  list-style: none;
+}
+a {
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  color: #c9b9b9;
+  vertical-align: baseline;
+  background: 0 0;
+  text-decoration: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+hr {
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #000;
+  margin: 1em 0;
+  padding: 0;
+}
+input,
+select {
+  vertical-align: middle;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.page_container {
+  padding-top: 80px;
+  padding-bottom: 20px;
+}
+.page_container .page_face .spike_border {
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 100%;
+  position: absolute;
+  background: linear-gradient(#fff 49%, transparent 49%),
+    linear-gradient(-45deg, #c6cf5c 33%, transparent 33%) 0 50%,
+    #fff linear-gradient(45deg, #c6cf5c 33%, #fff 33%) 0 50%;
+  background-position: center bottom;
+  background-repeat: repeat-x;
+  background-size: 1px 100%, 14px 14px, 14px 14px;
+}
+.page_container .page_face {
+  padding: 39px 11px 38px;
+  position: relative;
+  background: #c6cf5c;
+  /* background: linear-gradient(#fff 49%, transparent 49%),
+    linear-gradient(-45deg, #c6cf5c 33%, transparent 33%) 0 50%,
+    #fff linear-gradient(45deg, #c6cf5c 33%, #fff 33%) 0 50%; */
+
+  /* background: linear-gradient(#c6cf5c 49%, transparent 49%),
+    linear-gradient(-45deg, #fff 33%, transparent 33%) 0 50%,
+    #c6cf5c linear-gradient(45deg, #fff 33%, #c6cf5c 33%) 0 50%; */
+  /* background-position: center bottom;
+  background-repeat: repeat-x;
+  background-size: 1px 100%, 14px 14px, 14px 14px; */
+}
+.page_container .page_face .pf_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.page_container .page_face .pf_header span {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
+}
+.page_container .page_face .pf_body {
+  display: flex;
+  padding: 25px;
+  align-items: center;
+  justify-content: center;
+}
+.page_container .page_face .pf_body div {
+  text-align: center;
+}
+.page_container .page_face .pf_body h1 {
+  padding-top: 14px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: #000;
+}
+.page_container .page_face .pf_body h1 strong {
+  display: block;
+  font-size: 18px;
+  font-weight: 600;
+  color: #417505;
+  margin-top: 10px;
+}
+.page_container .page_section {
+  padding: 0 24px;
+}
+.page_container .page_section._payment_for {
+  bottom: -30px;
+  left: 0;
+  width: 100%;
+  position: absolute;
+}
+.page_container .page_section._payment_for .page_inner {
+  padding: 10px;
+  background: #fff;
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.page_container .page_section._payment_for .page_inner div span {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  color: #3d6296;
+}
+.page_container .page_section._payment_for .page_inner div strong {
+  display: block;
+  margin-top: 5px;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  color: #231f20;
+}
+.page_container .page_section._appointment_details {
+  padding-top: 45px;
+}
+.page_container .page_section._appointment_details .page_inner {
+  background: #fff;
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1), 2px 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  display: flex;
+  overflow: hidden;
+  justify-content: space-between;
+}
+.page_container
+  .page_section._appointment_details
+  .page_inner
+  .appointment_details {
+  flex: 1;
+  display: flex;
+  padding: 10px;
+  gap: 25px;
+  flex-direction: column;
+}
+.page_container
+  .page_section._appointment_details
+  .page_inner
+  .appointment_details
+  .ad_row {
+  display: flex;
+  justify-content: space-between;
+}
+.page_container
+  .page_section._appointment_details
+  .page_inner
+  .appointment_details
+  .ad_row._appointment_on
+  div {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.page_container
+  .page_section._appointment_details
+  .page_inner
+  .appointment_details
+  .ad_row._appointment_on
+  div
+  span {
+  font-weight: 600;
+  font-size: 15px;
+  display: block;
+  line-height: 18px;
+  margin-top: 5px;
+  color: #3d6296;
+}
+.page_container
+  .page_section._appointment_details
+  .page_inner
+  .appointment_details
+  .ad_row
+  .hospital_details {
+  padding-left: 50px;
+}
+.page_container
+  .page_section._appointment_details
+  .page_inner
+  .appointment_details
+  .ad_row
+  .hospital_details
+  h2 {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: 0.02em;
+  color: #231f20;
+  margin-bottom: 4px;
+}
+.page_container
+  .page_section._appointment_details
+  .page_inner
+  .appointment_details
+  .ad_row
+  .hospital_details
+  address {
+  font-weight: 400;
+  font-size: 12px;
+  font-style: inherit;
+  line-height: 14px;
+  letter-spacing: 0.02em;
+  color: rgba(0, 0, 0, 0.5);
+}
+.page_container .page_section._appointment_details .page_inner .bar_code {
+  width: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #87c25a;
+}
+.page_container .page_section._voucher_owner_details {
+  padding-top: 15px;
+}
+.page_container .page_section._voucher_owner_details .page_inner {
+  display: flex;
+  flex-wrap: wrap;
+}
+.page_container .page_section._voucher_owner_details .page_inner div {
+  flex: 1;
+  padding-bottom: 15px;
+}
+.page_container
+  .page_section._voucher_owner_details
+  .page_inner
+  div._voucher_holder {
+  min-width: 100%;
+}
+.page_container .page_section._voucher_owner_details .page_inner div label {
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  color: #3d6296;
+}
+.page_container .page_section._voucher_owner_details .page_inner div strong {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  color: #231f20;
+}
+.page_container .page_section .__section_heading {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  color: #3d6296;
+}
+.page_container .page_section._package_details .page_inner {
+  padding: 15px;
+  background: #fff;
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.1), 2px 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.page_container .page_section._package_details .page_inner h2 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+  margin-bottom: 15px;
+  color: rgba(18, 18, 18, 0.6);
+}
+.page_container .page_section._instructions .__section_heading,
+.page_container .page_section._please_follow_instruction .__section_heading {
+  margin-bottom: 8px;
+}
+.page_container .page_section._package_details .page_inner ul {
+  list-style-type: disc;
+  margin-left: 15px;
+}
+.page_container .page_section._package_details .page_inner li {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  padding-top: 10px;
+  color: #231f20;
+}
+.page_container .page_section._please_follow_instruction {
+  padding-top: 15px;
+  padding-bottom: 17px;
+}
+.page_container .page_section._please_follow_instruction ul {
+  list-style-type: disc;
+  margin-left: 15px;
+}
+.page_container .page_section._please_follow_instruction li {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  margin-top: 8px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.page_container .page_section._note {
+  background: #3d6296;
+}
+.page_container .page_section._note .page_inner {
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.page_container .page_section._note p {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: #fff;
+}
+.page_container .page_section._instructions {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background: #c6cf5c;
+  background: linear-gradient(#c6cf5c 49%, transparent 49%),
+    linear-gradient(-45deg, #fff 33%, transparent 33%) 0 50%,
+    #c6cf5c linear-gradient(45deg, #fff 33%, #c6cf5c 33%) 0 50%;
+  background-position: center bottom;
+  background-repeat: repeat-x;
+  background-size: 1px 100%, 14px 14px, 14px 14px;
+}
+.page_container .page_section._instructions ul {
+  list-style-type: disc;
+  margin-left: 15px;
+}
+.page_container .page_section._instructions li {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.page_container .page_section._instructions .contact_info {
+  display: flex;
+  padding-top: 20px;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+}
+.page_container .page_section._instructions .contact_info span {
+  display: block;
+}
+.page_container .page_section._instructions .contact_info div {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+}
+.page_container .page_section._instructions .contact_info div code {
+  display: block;
+  font-size: 10px;
+}
+.page_container .page_section._instructions .contact_info a {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 14px;
+  text-decoration-line: underline;
+  color: #2baaec;
+}
